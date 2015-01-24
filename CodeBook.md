@@ -1,6 +1,3 @@
-# 3) a code book that describes the variables, the data, 
-# and any transformations or work that you performed to clean up the data
-# called CodeBook.md. 
 
 ## Human Activity Recognition Using Smartphones Data Set 
 
@@ -10,6 +7,8 @@ The starting point for my project was a set of data files containing acceleromoe
 The project which generated the data files is described here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+The specific data I used is found here:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 I took the test data and the train data from the above referenced project and merged the two into one set of data values.
 
